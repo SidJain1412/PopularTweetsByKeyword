@@ -1,0 +1,11 @@
+Donald Trump:
+20 tweet analysis: 3.253
+200 tweet analysis: 32.714
+
+Hillary Clinton:
+20 tweet analysis: 2.710
+200 tweet analysis: 23.477
+
+Narenda Modi:
+20 tweet analysis: 1.906
+200 tweet analysis: 19.72
